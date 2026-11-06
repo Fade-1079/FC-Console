@@ -138,3 +138,5 @@ Next, it runs loading animations before displaying a progress bar. Once the prog
 Finally, the typing animation displays a greeting, the program asks the user for their name, and it prints a personalised response before exiting.
 
 This is just one example of what you can build with FC Console. You can combine these functions in your own projects to create colourful menus, loading screens, status displays, interactive tools, and much more.
+
+If you need any help let me know at @fade1079
