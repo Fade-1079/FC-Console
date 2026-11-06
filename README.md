@@ -1,4 +1,4 @@
-## Full Example
+## FC Console Library
 
 This example demonstrates some of the main features available in FC Console, all working together in one simple C++ application. It includes console setup, custom colours, text formatting, loading animations, progress bars, tables, typing effects, and user input.
 
